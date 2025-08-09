@@ -39,6 +39,7 @@ for i in 0..N-1:
 
 **Advantages** 
 - Simple to implement.
+
 **Disadvantages**
 - Poor cache utilization due to non-contiguous memory access patterns.
 
